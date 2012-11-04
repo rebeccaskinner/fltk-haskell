@@ -1,0 +1,2 @@
+fltkc is a wrapper around fltk providing a C interface to simplify the Haskell
+FFI bindings for fltk-haskell
