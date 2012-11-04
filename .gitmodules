@@ -1,0 +1,3 @@
+[submodule "lib/fltkc"]
+	path = lib/fltkc
+	url = git://github.com/timskinner/fltkc.git
