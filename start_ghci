@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+ghci -L./lib/fltkc/build/src -lFLTKC
